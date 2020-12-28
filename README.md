@@ -1,1 +1,1 @@
-"# GraphQLPractice" 
+# GraphQLPractice
